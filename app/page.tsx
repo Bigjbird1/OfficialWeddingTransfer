@@ -25,7 +25,7 @@ const Homepage = () => {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section with Tabs */}
-      <div className="relative pt-16 pb-24 px-4">
+      <div className="relative min-h-screen flex flex-col justify-center items-center px-4">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h1 className="mb-6 leading-tight tracking-tight">
             <span className="block text-5xl sm:text-7xl font-semibold text-transparent bg-clip-text bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
