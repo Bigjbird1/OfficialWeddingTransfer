@@ -128,7 +128,7 @@ const Homepage = () => {
       {/* Dynamic Content Section */}
       {activeTab === 'dates' ? (
         /* Featured Dates Section */
-        <div className="bg-gray-50 py-20">
+        <div className="bg-gray-50 py-20 mt-20">
           <div className="max-w-7xl mx-auto px-4">
             <div className="flex justify-between items-center mb-8">
               <h2 className="text-2xl font-semibold">Featured dates</h2>
